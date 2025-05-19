@@ -1,4 +1,4 @@
-## Hi I'm Exel, also known as mediocreasian 
+![Mediocreasian](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00F5FF&left=true&vCenter=true&width=1000&height=100&lines=Hi+I'm+Exel;;also+known+as+Mediocreasian;Backend+Developer;Building+for+Good;Continuous+Learning+🚀)
 
 I'm a **Backend Developer** passionate about building **scalable systems**, setting up **CI/CD pipelines**, and crafting **containerized services** with Docker.
 
