@@ -20,3 +20,6 @@ I'm also a big fan of **open source** — I enjoy learning from the community an
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/exeltan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="exeltan" height="30" width="40" /></a>
+
+#### 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mediocreasian&layout=compact&theme=dark)](https://github.com/greatdaveo/mediocreasian-readme-stats)
